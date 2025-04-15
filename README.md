@@ -91,6 +91,6 @@ After this, you will get a summary of your mortgage and a plot of all your data.
 
 
 ## 🚀 About Me
-Check out more about my work in my [GitHub profile](https://github.com/BielAltimira/price) or visit my [LinkedIn profile](https://www.linkedin.com/in/biel-altimira-tarter/).
+Check out more about my work in my [GitHub profile](https://github.com/upc/) or visit my [LinkedIn profile](https://www.linkedin.com/in/biel-altimira-tarter/).
 
 
